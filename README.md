@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jessica Downing @jessdownin9
-- 👀 I’m interested in learning anything and everything that will help me improve my skills as a software developer.
-- 🌱 I recently finished a full-stack engineering course with Codecademy.
-- 💞️ I’m looking to hear from people who have also taken a non-traditional route to becoming a developer.
+- 🌱 I recently have been learning to develop Android applications.
+- 💞️ I’m looking to hear from people who have also taken a non-traditional route to becoming a software engineer.
 - 📫 Reach out to me at jessicalaurendowning@gmail.com or on Discord (jessica__downing#4609).
 
 <!---
